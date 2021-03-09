@@ -1,0 +1,13 @@
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.csprojAssemblyReference.cache
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.AssemblyInfoInputs.cache
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.AssemblyInfo.cs
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.csproj.CoreCompileInputs.cache
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.exe
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.deps.json
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.runtimeconfig.json
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.runtimeconfig.dev.json
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.dll
+C:\workspace\DIO.Desafio\bin\Debug\netcoreapp3.1\DIO.Desafio.pdb
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.dll
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.pdb
+C:\workspace\DIO.Desafio\obj\Debug\netcoreapp3.1\DIO.Desafio.genruntimeconfig.cache
